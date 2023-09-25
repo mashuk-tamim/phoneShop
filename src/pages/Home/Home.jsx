@@ -6,7 +6,7 @@ import Phones from "../../components/Phones/Phones";
 const Home = () => {
     const phones = useLoaderData()
 
-    console.log(phones)
+    // console.log(phones)
 
     return (
         <div>
